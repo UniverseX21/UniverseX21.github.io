@@ -1,0 +1,48 @@
+body,html { 
+background-size: 450px;
+height: 100%;
+width: 100%; 
+background-image: url(uni3.jpg);}
+
+
+
+
+.btn{
+	
+   color: #8c0755;
+font-weight: 700;
+border-radius: 300px;
+background-color: black;
+cursor: pointer;
+border-color: pink;
+padding: 1rem 2rem; }
+
+
+
+.col {text-align: center;}
+header {
+ text-align: center;
+ height: 25%;
+ font-size: 100px;
+background-size: cover;
+text-shadow: 40px 40px 40px blue;
+
+
+ }
+
+ h2 {text-align: center;
+      height: 45%}
+
+
+
+      #content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+img{width: 200px;
+height: 250px;}
